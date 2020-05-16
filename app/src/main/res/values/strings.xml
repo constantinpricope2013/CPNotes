@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CPNotes</string>
+    <string name="save">Save</string>
+    <string name="please_input_password">Please input password</string>
 </resources>
